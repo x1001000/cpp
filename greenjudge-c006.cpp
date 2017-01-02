@@ -1,4 +1,3 @@
-//http://www.tcgs.tc.edu.tw:1218/ShowProblem?problemid=c006
 #include <iostream>
 #include <queue>
 
